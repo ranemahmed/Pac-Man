@@ -3,8 +3,8 @@
 A Python-based Pac-Man clone featuring intelligent ghost behaviors using A*, BFS, and Minimax (with Alpha-Beta pruning). Each ghost simulates a distinct chasing strategy, replicating classic arcade mechanics and enhanced with modern AI pathfinding techniques.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d8dc37cf-78fb-4d4a-afb3-8195ade0cc8a" width="45%" style="margin-right: 10px;">
-  <img src="https://github.com/user-attachments/assets/78106e45-c792-4785-b6f5-00e6ffd3ceee" width="45%">
+  <img src="https://github.com/user-attachments/assets/d8dc37cf-78fb-4d4a-afb3-8195ade0cc8a" width="35%" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/78106e45-c792-4785-b6f5-00e6ffd3ceee" width="35%">
 </p>
 
 ---
